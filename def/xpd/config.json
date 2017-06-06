@@ -1,3 +1,4 @@
 {
-  'test':'el teste'
+  "test":"el teste",
+  "hi": "there"
 }
